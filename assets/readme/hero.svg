@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Healthy Assistant · 健康助手</title>
+<desc id="desc">AI 心理支持与流式对话。Vue 3、Spring Boot 和 DeepSeek。右侧为咨询对话概念插画。</desc>
+<rect width="1200" height="440" rx="24" fill="#f6f5f0"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+<text x="60" y="66" font-family="Consolas, monospace" font-size="12" letter-spacing="3" fill="#39836f">AI-POWERED CARE · A MOMENT FOR YOU</text>
+<text x="58" y="132" font-size="54" font-weight="800" letter-spacing="-2" fill="#202922">Healthy Assistant</text>
+<text x="60" y="179" font-size="23" font-weight="600" fill="#253d33">健康助手，让每一次倾诉都有回应</text>
+<text x="60" y="216" font-size="17" fill="#6a756d">AI 心理支持 · 实时流式对话 · 用心倾听</text>
+<text x="60" y="251" font-family="Consolas, monospace" font-size="11" letter-spacing="1.3" fill="#7b8175">VUE 3  /  SPRING BOOT  /  DEEPSEEK  /  MYSQL</text>
+<path d="M76 289V370M76 317H101M76 351H101" fill="none" stroke="#d4d9cc" stroke-width="2"/>
+<circle cx="76" cy="289" r="4" fill="#388570"/>
+<circle cx="104" cy="317" r="3" fill="#87a68f"/>
+<circle cx="104" cy="351" r="3" fill="#b5bcaa"/>
+<text x="91" y="294" font-size="15" font-weight="600" fill="#344a3d">从一次对话开始</text>
+<text x="119" y="322" font-size="14" fill="#66766b">说说此刻的心情</text>
+<text x="119" y="356" font-size="14" fill="#8a9387">给自己一点空间</text>
+<rect x="679" y="51" width="466" height="352" rx="20" fill="#e6e6dd"/>
+<rect x="671" y="43" width="466" height="352" rx="20" fill="#fffefa" stroke="#e3e3d9" stroke-width="1.5"/>
+<circle cx="696" cy="68" r="4.5" fill="#ed9384"/><circle cx="712" cy="68" r="4.5" fill="#e3c677"/><circle cx="728" cy="68" r="4.5" fill="#87b898"/>
+<text x="823" y="72" font-family="Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#8a9387">YOUR QUIET SPACE</text>
+<path d="M672 87H1136" stroke="#efeee7"/>
+<rect x="694" y="106" width="39" height="39" rx="12" fill="#e5f0e7"/>
+<path d="M704 121c0-6 9-7 10-1 3-6 11-5 11 1 0 5-11 12-11 12s-10-7-10-12" fill="#4c947b"/>
+<text x="745" y="122" font-size="14" font-weight="600" fill="#304c3d">倾听你的每一种心情</text>
+<circle cx="749" cy="138" r="3" fill="#69a183"/><text x="758" y="141" font-size="10" fill="#8b958b">AI 心理支持</text>
+<rect x="863" y="164" width="250" height="41" rx="12" fill="#e9eee4"/>
+<text x="879" y="190" font-size="13" fill="#53634f">今天有点累，想找人聊一聊。</text>
+<rect x="694" y="221" width="359" height="79" rx="12" fill="#f4f4ed"/>
+<text x="710" y="247" font-size="13" fill="#4e6154">我在这里。我们可以慢慢聊。</text>
+<text x="710" y="273" font-size="13" fill="#4e6154">今天有什么让你感到疲惫的事吗？</text>
+<rect x="1002" y="260" width="2" height="15" rx="1" fill="#4a9377"/>
+<rect x="694" y="320" width="419" height="44" rx="12" fill="#283e34"/>
+<text x="710" y="347" font-size="12" fill="#c5d4c6">把此刻的感受，轻轻放在这里…</text>
+<circle cx="1090" cy="342" r="13" fill="#afc9a4"/>
+<path d="M1085 343l5-5 5 5m-5-5v9" fill="none" stroke="#283e34" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="408" font-size="10" letter-spacing="2" fill="#92998b">LISTEN. CONNECT. TAKE A BREATH.</text>
+</g></svg>

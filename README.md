@@ -1,5 +1,7 @@
 # Healthy Assistant · 健康助手
 
+<p align="center"><img src="assets/readme/hero.svg" width="100%" alt="Healthy Assistant 健康助手：AI 心理支持与实时流式对话" /></p>
+
 基于 Vue 3 与 Spring Boot 的健康助手项目，包含心理支持对话、用户认证及相关前端页面。
 
 ## 项目内容
@@ -100,3 +102,4 @@ npm run build
 ## 仓库说明
 
 已排除本地敏感配置、依赖目录、编译产物和 IDE 缓存。请勿提交 API Key、数据库密码或 JWT 密钥。
+
