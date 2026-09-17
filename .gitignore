@@ -1,0 +1,14 @@
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+/ai-spingboot/src/main/resources/application.yml
+*.pem
+*.key
+
+# Generated files
+**/node_modules/
+**/target/
+**/dist/
+**/.idea/
+*.log
