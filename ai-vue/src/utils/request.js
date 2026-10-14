@@ -1,9 +1,10 @@
 import axios from 'axios'
 import { ElMessage } from 'element-plus'
+import { apiBaseUrl } from '@/config'
 
 // 创建axios实例
 const service = axios.create({
-  baseURL: '/api', // 请求的前缀
+  baseURL: apiBaseUrl, // 请求的前缀
   timeout: 5000, // 请求的超时时间
 })
 
